@@ -18,7 +18,7 @@ import org.springframework.stereotype.Service;
  * <p>Date: 13-5-25 上午11:23
  * <p>Version: 1.0
  */
-@Service
+@Service("messageClearTask")
 public class MessageClearTask {
 
     public static final int EXPIRE_DAYS_OF_ONE_YEAR = 366;
