@@ -1,5 +1,3 @@
-<a href="http://zhangkaitao.github.io/es/" target="_blank">项目首页</a>
-|
 <a href="http://jinnianshilongnian.iteye.com/" target="_blank">我的博客</a>
 
 
